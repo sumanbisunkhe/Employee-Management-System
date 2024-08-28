@@ -18,6 +18,13 @@ This Java project demonstrates an Employee Management System using Object-Orient
     - Calculate the total salary (base salary + bonus).
     - Override the display method to include bonus information.
 
+- **EmployeeTest Class**
+    - Contains the `main` method that:
+        - Creates instances of `Employee` and `Manager`.
+        - Displays their information before and after a salary raise.
+        - Raises the salary of both the `Employee` and `Manager` by a specified percentage (10% in this case).
+        - Displays the updated information, including the new salary and total salary for managers.
+
 ## Project Structure
 
 ```plaintext
